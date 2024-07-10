@@ -1,0 +1,7 @@
+flask
+pandas
+spacy
+transformers==4.9.2
+openpyxl
+torch
+flask-cors
